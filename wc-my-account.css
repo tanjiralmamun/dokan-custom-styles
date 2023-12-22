@@ -1,0 +1,15 @@
+/*-- Customer, Vendor Registration Option Styles - TanjirsDev --*/
+.vendor-customer-registration {
+    display: flex;
+    justify-content: space-between;
+}
+.vendor-customer-registration .radio {
+    background: #dee3e5;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+    border: 1px solid #d5d8da;
+    border-radius: 8px;
+    margin: 0 5px;
+    text-transform: capitalize;
+}
